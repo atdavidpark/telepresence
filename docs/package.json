@@ -4,7 +4,7 @@
   "description": "GitBook Documentation for Telepresence",
   "main": "index.js",
   "dependencies": {
-    "gitbook-cli": "^2.3.0",
+    "gitbook-cli": "^2.3.2",
     "gitbook-plugin-bulk-redirect": "^0.2.1",
     "gitbook-plugin-gtm": "0.0.6",
     "gitbook-plugin-scripts": "^1.0.2"
